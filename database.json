@@ -1,5 +1,5 @@
 {
-  "users": [],
-  "premium": [],
-  "limit": {}
+"owner": [],
+  "reseller": [],
+  "allowed": []
 }
